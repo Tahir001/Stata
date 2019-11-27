@@ -1,0 +1,1 @@
+The following folder contains the Assignment 2 for Data Analysis I course. We were provided 2 data sets, and a list of problems to solve. The assignment was theory & computer based. My solutions to the project and how I analyzed the data inStata (Statistical Software) is here to see for the curious. 
